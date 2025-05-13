@@ -1,0 +1,5 @@
+streamlit
+pydantic
+requests
+openai-agents
+nest_asyncio
